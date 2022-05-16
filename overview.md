@@ -6,7 +6,8 @@
 * https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide
 ## Badges
 * [OpenSSF Best Practices Badge Programm](https://bestpractices.coreinfrastructure.org/en)
-* [howfairis](https://github.com/fair-software/howfairis)
+* [howfairis (python comand line tool)](https://github.com/fair-software/howfairis)
+* [howfairis (github actions)](https://github.com/fair-software/howfairis-github-action)
 ## FAIR Software
 * [FAIR-software.eu](https://fair-software.eu/)
 ## Research Software Engeneering (RSE)
