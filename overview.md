@@ -1,6 +1,7 @@
 # Overview Research Software Sustainability Initiatives
 ## Institutions
 * [Software Sustainability Institute](https://www.software.ac.uk/)
+* [Software Heritage](https://www.softwareheritage.org/)
 ## Software Evaluation
 * https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide
 ## Badges
@@ -19,3 +20,6 @@
 * [CLARIAH Tools and Services Global](http://portal.clarin.nl/clariah-tools-fs-global)
 * [OpenAIRE Research Graph](https://explore.openaire.eu/)
 * [TAPoR 3 - Text Analysis Portal for Research](https://tapor.ca/home)
+
+## Guidelines
+* [Guidelines for archiving and referencing software artifacts](https://www.softwareheritage.org/save-and-reference-research-software/)
