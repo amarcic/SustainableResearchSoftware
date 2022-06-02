@@ -6,15 +6,15 @@
 * https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide
 ## Badges
 the use of badges can help users estimate the sustainability of software
-## high level badges
+### high level badges
 * [OpenSSF Best Practices Badge Programm](https://bestpractices.coreinfrastructure.org/en)
 * [howfairis (python comand line tool)](https://github.com/fair-software/howfairis)
 * [howfairis (github actions)](https://github.com/fair-software/howfairis-github-action)
 * [Digital badge for responsible conduct of research](https://zenodo.org/record/6245838#.YoYlXVRBw2y)
-## mid level badges
+### mid level badges
 automated code quality checks/ratings and code health metrics
 * [codeclimate](https://docs.codeclimate.com/) maintainability rating and test coverage badges
-## low level badges
+### low level badges
 display properties of code/software relevant to sustainability questions
 * lizenz badges
 ## FAIR Software
