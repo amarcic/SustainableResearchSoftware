@@ -13,10 +13,14 @@ the use of badges can help users estimate the sustainability of software
 * [Digital badge for responsible conduct of research](https://zenodo.org/record/6245838#.YoYlXVRBw2y)
 ### mid level badges
 automated code quality checks/ratings and code health metrics
-* [codeclimate](https://docs.codeclimate.com/) maintainability rating and test coverage badges
+* [codeclimate](https://docs.codeclimate.com/) maintainability (technical debt) rating and test coverage badges
+* [lgtm](lgtm.com) automated code review, alerts and code quality badges
+    * supported languages: Java, Python, JavaScript, TypeScript, C#, Go, C and C++
+    * supported repositories: GitHub, Bitbucket
+  
 ### low level badges
 display properties of code/software relevant to sustainability questions
-* lizenz badges
+* license badges
 ## FAIR Software
 * [FAIR-software.eu](https://fair-software.eu/)
 ## Research Software Engeneering (RSE)
