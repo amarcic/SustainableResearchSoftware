@@ -2,27 +2,21 @@
 ## Institutions
 * [Software Sustainability Institute](https://www.software.ac.uk/)
 * [Software Heritage](https://www.softwareheritage.org/)
+
 ## Software Evaluation
 * https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide
+
 ## Badges
-the use of badges can help users estimate the sustainability of software
-### high level badges
+the use of badges can help users estimate the sustainability of software    
+
 * [OpenSSF Best Practices Badge Programm](https://bestpractices.coreinfrastructure.org/en)
 * [howfairis (python comand line tool)](https://github.com/fair-software/howfairis)
 * [howfairis (github actions)](https://github.com/fair-software/howfairis-github-action)
 * [Digital badge for responsible conduct of research](https://zenodo.org/record/6245838#.YoYlXVRBw2y)
-### mid level badges
-automated code quality checks/ratings and code health metrics
-* [codeclimate](https://docs.codeclimate.com/) maintainability (technical debt) rating and test coverage badges
-* [lgtm](lgtm.com) automated code review, alerts and code quality badges
-    * supported languages: Java, Python, JavaScript, TypeScript, C#, Go, C and C++
-    * supported repositories: GitHub, Bitbucket
-  
-### low level badges
-display properties of code/software relevant to sustainability questions
-* license badges
+
 ## FAIR Software
 * [FAIR-software.eu](https://fair-software.eu/)
+
 ## Research Software Engeneering (RSE)
 * [Society of Research Software Engineering](https://society-rse.org/)
 * [Research Software Criteria and Taxonomy](https://rseng.github.io/rseng/)
