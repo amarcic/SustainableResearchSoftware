@@ -1,14 +1,11 @@
       import { data } from './tableData.js';
 
+      columnTitles = data[0].map( colTitle => { return { title: colTitle}; } );
+
       $(document).ready(function() {
          let table = $('#example').DataTable( {
               data: data,
-              columns: [
-                  { title: "Framework" },
-                  { title: "Criterion" },
-                  { title: "Description" },
-                  { title: "Category" }
-              ]
+              columns: columnTitles;
           } );
 
         $('#example')
