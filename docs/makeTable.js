@@ -1,6 +1,6 @@
       import { data } from './tableData.js';
 
-      columnTitles = data[0].data.map( colTitle => { return { title: colTitle}; } );
+      columnTitles = data.data[0].map( colTitle => { return { title: colTitle}; } );
 
       $(document).ready(function() {
          let table = $('#example').DataTable( {
