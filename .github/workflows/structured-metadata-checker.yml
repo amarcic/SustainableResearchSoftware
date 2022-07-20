@@ -4,4 +4,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: '(test -f README && echo Success: Structured metadata files available) || echo Failed: Structured metadata file/s missing'
+      - run: '((test -f README || test -f README.md) && echo Success: Structured metadata files available) || echo Failed: Structured metadata file/s missing'
