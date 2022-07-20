@@ -7,3 +7,4 @@ Collection of information on sustainable research software.
 - [Micro-Certification of Sustainable Research Software with Badges](micro-certification.md)
 - [The fair-software badge](fair-software-badge.md)
 - [Table](table.html)
+- [csv test](badges-overview.csv)
