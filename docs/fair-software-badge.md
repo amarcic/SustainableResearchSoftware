@@ -24,4 +24,4 @@ On the next push to your repository the fair-software.eu recommendations will be
 
 ### Alternative: Local application of the badge generator
 
-<https://github.com/fair-software/howfairis>
+A Python package that implements a checker against the fair-software recommendations is available at <https://github.com/fair-software/howfairis>. It can be run locally or in a Docker image.
