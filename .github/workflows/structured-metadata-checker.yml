@@ -1,0 +1,8 @@
+name: Structured Metadata Files Checker
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Only run this if file README exists
+      - run: '(test -f README && echo Success: Structured metadata files available) || echo Failed: Structured metadata file/s missing'
