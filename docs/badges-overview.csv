@@ -1,8 +1,0 @@
-﻿badge id;badge title;read only access;criteria;metrics;significance (for evaluation of sustainability);expense for deployment;data source;level;example;available for;comment
-;https://shields.io/category/license;1;06-Lizenzierung;license;high;low;file in repository;low;https://img.shields.io/github/license/Edirom/MerMEId;;
-;https://shields.io/category/version;1;05-Versionsmanagement;latest version;;low;SemVer in Repo;low;https://img.shields.io/github/v/release/digicademy/sturm-exist-app;;
-;RocketChat Shield;1;03-Software-Management;support chat active members;;low;RocketChat API;low;https://nfdi4culture-chat.nfdi.de/api/v1/shield.svg?type=online;;
-;https://shields.io/category/chat;1;03-Software-Management;communication channel activity;;low;;low;;discord, discourse, gitter, matrix, stack exchange;
-;https://shields.io/category/dependencies;0;02-Dokumentation, 04-Qualitätssicherung;outdated dependencies;;;;;;;
-;fair-software howfairis;;;;;medium;;high;;;
-;https://shields.io/category/build - /readthedocs/...;;;technical documentation published;;medium;readthedocs API;low;;;"only checks readthedocs.org; maybe we need custom version for i.e. nfdi documentation hub"
