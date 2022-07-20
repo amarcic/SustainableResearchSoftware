@@ -5,7 +5,7 @@
       $(document).ready(function() {
          let table = $('#example').DataTable( {
               data: data.data,
-              columns: columnTitles;
+              columns: columnTitles
           } );
 
         $('#example')
