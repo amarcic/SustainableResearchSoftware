@@ -16,9 +16,48 @@ Low level badges that simply pass on metrics or information empower users to mak
 
 ## Certification criteria and badges
 
-### Licensing
+### License
 
-...
+- https://shields.io/category/license
+
+### Version
+
+- https://shields.io/category/version
+
+### Software Management
+
+Chat: 
+- RocketChat Shield
+- https://shields.io/category/chat
+
+Issue tracking:
+- https://shields.io/category/issue-tracking
+
+### Documentation
+
+Dependencies:
+- https://shields.io/category/dependencies
+
+Read-the-docs:
+- https://shields.io/category/build - /readthedocs/...
+
+### Quality
+
+Dependencies, see Documentation
+
+Analysis:
+- https://shields.io/category/analysis
+
+Build:
+- https://shields.io/category/build
+
+### Publication & Archiving
+
+Build, see Quality
+
+Software Heritage:
+- https://www.softwareheritage.org/2020/01/13/the-swh-badges-are-here/
+
 
 ### The fair-software badge
 
