@@ -2,7 +2,8 @@
 
 ## Table of Content
 - [Overview](#overview)
-- [The fair-software badge](fair-software-badge.md)
+- [The fair-software badge](#the-fair-software-badge)
+- [Certification Criteria and Badges](#certification-criteria-and-badges)
 - [Table](table.html)
 
 ## Overview
