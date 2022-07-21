@@ -58,8 +58,23 @@ Build, see Quality
 Software Heritage:
 - https://www.softwareheritage.org/2020/01/13/the-swh-badges-are-here/
 
+Draft: PID Badge
+- tests if there is a persistent identifier (DOI, Handle, ...)
+- tests: has_doi, has_handle, has_zenodo_badge
 
-### The fair-software badge
+
+### Citation and Credits
+
+Draft: PID Badge, see Publication & Archiving
+
+Draft: Credits Badge
+- authors and contributors are named explicitly, Vconsistency between contributors (API) and info in citation
+- tests: has_authors_file, has_citationcff_file, has_contributors_api
+- Alternative: Citation Metadata Consistency Check - https://github.com/citation-file-format/cffconvert-github-action
+
+### Complex badges
+
+#### The fair-software badge
 
 Website: <https://fair-software.eu/> 
 
@@ -71,7 +86,7 @@ Five recommendations for FAIR software:
 4. Enable citation of the software
 5. Use a software quality checklist
 
-#### Using the badge in a GitHub repository
+##### Using the badge in a GitHub repository
 
 Source: <https://github.com/fair-software/howfairis-github-action>
 
@@ -83,8 +98,22 @@ On the next push to your repository the fair-software.eu recommendations will be
 
 **Step 2:** add the badge definition to your README.md file. It can look like this, but the actual result is available in the output of the GitHub action: [![fair-software.eu]([https://img.shields.io/badge/fair--software.eu-● ● ○ ○ ○-orange)](https://img.shields.io/badge/fair--software.eu-%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8B%20%20%E2%97%8B%20%20%E2%97%8B-orange))
 
-#### Alternative: Local application of the badge generator
+##### Alternative: Local application of the badge generator
 
 A Python package that implements a checker against the fair-software recommendations is available at <https://github.com/fair-software/howfairis>. It can be run locally or in a Docker image.
 
+
+#### Drafts
+
+##### Structured Metadata Files Badge
+
+- means there are standard files for metadata
+- tests if the following files exist: README, CONTRIBUTE, AUTHORS, LICENSE, CITATION.cff (optional: PID test)
+- refs. 02 Dokumentation, 03 Software Management, 08 Zitation und Anerkennung
+
+##### Reference Publication Badge
+
+- there a reference in the metadata to a review or a scientific publication in a discipline-specific medium (journal, conference)
+- tests: field in metadata, other badges
+- refs. 01 Recherche, 02 Dokumentation, 07 Publikation und Archivierung; N4C activities: Registry, CKIT
 
