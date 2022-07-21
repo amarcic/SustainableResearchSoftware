@@ -13,6 +13,7 @@ the use of badges can help users estimate the sustainability of software
 * [howfairis (python comand line tool)](https://github.com/fair-software/howfairis)
 * [howfairis (github actions)](https://github.com/fair-software/howfairis-github-action)
 * [Digital badge for responsible conduct of research](https://zenodo.org/record/6245838#.YoYlXVRBw2y)
+* [OSF Badges to Acknowledge Open Practices](https://osf.io/tvyxz/)
 
 ## FAIR Software
 * [FAIR-software.eu](https://fair-software.eu/)
@@ -32,4 +33,5 @@ the use of badges can help users estimate the sustainability of software
 
 ## Misc
 * [Certification criteria spreadsheet](https://docs.google.com/spreadsheets/d/13kz2gHOG_rqlvTaoX7i5fczldbA8HbCEJ2eaxwlwoYk/edit#gid=0)
+* [Open licenses list](https://pensource.org/licenses/alphabetical)
 * [Certification criteria DataTable](https://codepen.io/amarcic/pen/XWzwENp)
