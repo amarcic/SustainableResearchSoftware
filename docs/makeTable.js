@@ -1,5 +1,8 @@
-      import { data } from './tableData.js';
+      //import { data } from './tableData.js';
+      import { CSVparse } from './CSVparse.js';
 
+      const data = await CSVparse("./badges-overview.csv");
+      
       const columnTitles = data.data[0].map( colTitle => { return { title: colTitle}; } );
 
       $(document).ready(function() {
