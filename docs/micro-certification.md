@@ -4,17 +4,19 @@
 - [Introduction](#introduction)
 - [Certification Criteria and Badges](#certification-criteria-and-badges)
 - [The fair-software badge](#the-fair-software-badge)
-- [Table](table.html)
+- [Overview Table: Badges for Sustainability Metrics](table.html)
 
 ## Introduction
 Certificates can build trust and inform decisions.    
 From a user perspective the criteria to evaluate if research software is sustainable are not always obvious. And problems related to software sustainability tend show toward the end or after research projects have already ended. This creates uncertainty at the time the decisions about software are made.    
-For developers this is also problematic since investing substantial amounts of resources in the sustainability of a software product is not immediatly recognizable to users. Certificates can help to make these investments visible and reduce uncertainty.    
+For developers this is also problematic since investing substantial amounts of resources in the sustainability of a software product is not immediatly recognizable to users. Certificates can help make these investments visible and reduce uncertainty.    
 At the same time formal certification processes are resource-intensive (for both ... and ...) and ideally are backed by an institution with a long term commitment and funding. Certificates need to be updated and renewed periodically, as does the certification process itself.    
-Micro-certification is an attempt to reduce some of the overhead of certification processes (for both the... and the ...) by focusing on small units. It is usually talked about in the context of knowledge acquisition but some of it's concepts and technologies can be transfered to the domain of software evaluation. Instead of investing resources en bloc (and getting nothing in return if you run out of steam on the way) to get a set of skills certified, microcertification encourages incrementally gaining and refining specific skills ("continous upskilling"). For sustainability certification this translates to: instead of confronting software developers with a long winded certification process, they can incrementally apply measures to enhance sustainability of their product and immediately get a recognizable output.
-Mirco-certification with badges can help inform decisions by providing metrics relevant for the evaluation of software sustainability in a readable, consistent and portable form. 
-Metrics provided by the badges often update automatically; thus including those metrics i.e. in a software registry does not increase maintenance cost dramatically (checks for broken badges might be still a good idea).
-Low level badges that simply pass on metrics or information empower users to make an informed decision based on their own weighting of criteria. Other more high level badges like the fair-software badge aggregate different metrics and combine them into a quick overview.
+Micro-certification is an attempt to reduce some of the overhead of certification processes (for both the... and the ...) by focusing on small units. It is usually talked about in the context of knowledge acquisition but some of it's concepts and technologies can be transfered to the domain of software evaluation. Instead of investing resources en bloc (and getting nothing in return if you run out of steam on the way) to get a set of skills certified, micro-certification encourages incrementally gaining and refining specific skills ("continous upskilling"). For sustainability certification this translates to: instead of confronting software developers with a long winded certification process, they can incrementally apply measures to enhance sustainability of their product and immediately get a recognizable output.    
+Mirco-certification with badges can help inform decisions by providing metrics relevant for the evaluation of software sustainability in a readable, consistent and portable form.    
+...
+Metrics provided by the badges often update automatically; thus including those metrics in en external enviroment like a software registry does not increase maintenance cost dramatically (checks for broken badges might be still a good idea).
+...    
+There is a wide range of ... that can be supplemented with badges: Low level badges that simply pass on metrics or information empower users to make an informed decision based on their own weighting of criteria. Other more high level badges like the fair-software badge aggregate different metrics and combine them into a quick overview. But there are also badges like the Open Software Foundation Best Practice Badge that review and document commitment to best practices and standards with an extensive cataloge of criteria; ...comparable to a more formal (self-)certification process.
 
 
 ## Certification criteria and badges
