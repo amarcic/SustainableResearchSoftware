@@ -2,6 +2,7 @@
 ## Institutions
 * [Software Sustainability Institute](https://www.software.ac.uk/)
 * [Software Heritage](https://www.softwareheritage.org/)
+* [RDA Software Source Code Interest Group](https://www.rd-alliance.org/groups/software-source-code-ig)
 
 ## Software Evaluation
 * https://www.software.ac.uk/resources/guides-everything/software-evaluation-guide
@@ -28,6 +29,7 @@ the use of badges can help users estimate the sustainability of software
 * [TAPoR 3 - Text Analysis Portal for Research](https://tapor.ca/home)
 
 ## Guidelines
+* [FAIR Principles for Research Software (FAIR4RS Principles)](https://zenodo.org/record/6623556#.YvTUghxBw2x)
 * [Guidelines for archiving and referencing software artifacts](https://www.softwareheritage.org/save-and-reference-research-software/)
 
 ## Misc
