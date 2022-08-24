@@ -32,6 +32,9 @@ the use of badges can help users estimate the sustainability of software
 * [FAIR Principles for Research Software (FAIR4RS Principles)](https://zenodo.org/record/6623556#.YvTUghxBw2x)
 * [Guidelines for archiving and referencing software artifacts](https://www.softwareheritage.org/save-and-reference-research-software/)
 
+## Licenses
+* [all OSI-approved licenses](https://opensource.org/licenses)
+
 ## Misc
 * [Certification criteria spreadsheet](https://docs.google.com/spreadsheets/d/13kz2gHOG_rqlvTaoX7i5fczldbA8HbCEJ2eaxwlwoYk/edit#gid=0)
 * [Certification criteria DataTable](https://codepen.io/amarcic/pen/XWzwENp)
