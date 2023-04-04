@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: Topics Timeline - Sustainable Research Software
 ---
@@ -12,3 +13,4 @@ gitGraph
    checkout professionalization
    commit
    commit
+```
